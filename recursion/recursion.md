@@ -13,3 +13,9 @@ Solutions to problems solved using recursion.
 |3| Power | Power of x times n | [Solution](Power.java)| O(logn) | O(logn) | [leetcode](https://leetcode.com/problems/powx-n/description/) |
 |4| Tower Of Hanoi| Tower Of Hanoi| [Solution](./TowerOfHanoi.java) | O(2^n) | O(n) | book|
 |5 | Head Tail Recursion | Head Tail Recursion | [Solution](./HeadTailRecursion.java) | O(n) | O(n) | book|
+|6 | Preorder Traversal |  | [Solution](./PreOrderTraversal.java) | O(n) | O(n) | book|
+|7 | Postorder Traversal |  | [Solution](./PostOrderTraversal.java) | O(n) | O(n) | book|
+|8 | Inorder Traversal |  | [Solution](./InorderTraversal.java) | O(n) | O(n) | book|
+|9 | BubbleSort |  | [Solution](./BubbleSort.java) | O(n^2) | O(n) | book|
+|5 | Merge Two Sorted Lists |  | [Solution](./MergeTwoLists.java) | O(m+n) | O(m+n) | [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/description/)|
+
